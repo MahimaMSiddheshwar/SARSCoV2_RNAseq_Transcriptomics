@@ -1,7 +1,4 @@
 ## **Transcriptomic Analysis of SARS-CoV-2–Infected Human Respiratory Cells Using RNA-Seq**
-
-## Overview
-
 This project implements an end-to-end **RNA-Seq analysis pipeline** to study host transcriptomic responses in **human respiratory cells infected with SARS-CoV-2**. The workflow spans raw data acquisition to downstream **differential gene expression (DEG)** and **Gene Ontology (GO) enrichment analysis**, comparing control and infected samples at **24H and 72H time points**.
 
 ---
