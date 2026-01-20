@@ -1,10 +1,4 @@
-# SARS-CoV-2 RNA-Seq Analysis
-
-## Project Title
-
-**Transcriptomic Analysis of SARS-CoV-2–Infected Human Respiratory Cells Using RNA-Seq**
-
----
+## **Transcriptomic Analysis of SARS-CoV-2–Infected Human Respiratory Cells Using RNA-Seq**
 
 ## Overview
 
